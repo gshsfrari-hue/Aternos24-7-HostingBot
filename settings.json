@@ -47,11 +47,11 @@
     }
   },
   "movement": {
-    "enabled": true,
+   "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 1,
-      "speed": 3
+      "radius": 4,
+      "speed": 3000
     },
     "look-around": {
       "enabled": true,
