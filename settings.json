@@ -12,10 +12,10 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "enabled": false,
+    "x": -4.5,
+    "y": 69.0,
+    "z": -1.3
   },
   "utils": {
     "auto-auth": {
